@@ -29,7 +29,7 @@
 
     @include('client/layouts/sections/scriptsIncludes')
 </head>
-<body>
+<body class="overflow-x-hidden antialiased">
     <!-- Layout Content -->
     @yield('layoutContent')
     <!--/ Layout Content -->

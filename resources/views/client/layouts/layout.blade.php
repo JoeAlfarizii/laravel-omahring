@@ -5,7 +5,7 @@
 @include('client/layouts/sections/navbar/navbar')
 
 <!-- Sections:Start -->
-<div class="frontend-content-container">
+<div class="main-content">
     @yield('content')
 </div>
 <!-- / Sections:End -->
